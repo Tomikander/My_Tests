@@ -117,8 +117,3 @@ a {
 a.top{
   bottom: 0;  
 }*/
-.container{
-  display: grid;
-  grid-template-columns: 100fr 100fr 100fr;
-  grid-template-rows: 50px 50px;  
-}
